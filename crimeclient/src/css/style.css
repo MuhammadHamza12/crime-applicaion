@@ -1,0 +1,15 @@
+
+body {
+ /* font-family: 'Titillium Web', sans-serif;  */
+ /* font-family: 'Titillium Web', sans-; */
+ /* font-family: 'Kirang Haerang', cursive; */
+}
+.para{
+  /* font-family: 'Titillium Web', sans-serif; */
+
+}
+.span[role=button] {
+    padding: 15px;
+    display: inline-block;
+    line-height: 20px;
+  }
